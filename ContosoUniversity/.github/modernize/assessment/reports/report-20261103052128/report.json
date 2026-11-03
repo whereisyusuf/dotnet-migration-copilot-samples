@@ -117,5 +117,26 @@
       },
       "storyPoint": 13
     }
-  ]
+  ],
+  "projects": [
+    {
+      "properties": {
+        "repo": "ContosoUniversity",
+        "languages": [
+          "C#"
+        ],
+        "frameworks": [
+          "ASP.NET MVC 5.2.9",
+          ".NET Framework 4.8"
+        ],
+        "tools": [
+          "MSBuild"
+        ],
+        "description": "Security-only assessment; core AppCAT analysis was unavailable in this environment.",
+        "applicationType": "Web Application"
+      },
+      "incidents": []
+    }
+  ],
+  "rules": {}
 }
